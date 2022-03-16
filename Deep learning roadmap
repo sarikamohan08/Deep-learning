@@ -1,2 +1,17 @@
 Hi there 
 Let me share my road map in learning deep learning here
+1. Python 
+2. Ml basics
+3. Linear regression
+4. loss functions
+5. Optimizer
+6. Explore tensorflow or pytorch
+7. Explore loss functions, optimizer, no.of hidden layers with inbuilt datasets or small dataset
+8. Explore both regression and  classification problems
+9. Learn to hyperparameter tune
+10. Image preprocessing
+11. Opencv or pillow
+12. CNN basics
+13. Architectures(lenet, alexnet,vgg16,19, inception v1,v2,v3, resnet,mobilenet,)
+14. Repeat step 7,9
+15. Projects
