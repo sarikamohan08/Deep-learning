@@ -13,3 +13,5 @@
 #### 2. Convolutional Neural Networks
           1. Understanding the images(poc of filters and edges)
           2. understanding convo block(poc of convo layer,pooling
+          3. Understanding various architecture
+          4. Parameter tuning
